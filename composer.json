@@ -1,5 +1,5 @@
 {
-  "name": "printu-co/printu-co-laravel-payu",
+  "name": "printuCo/printu-co-laravel-payu",
   "description": "Integrate SDK PayU to laravel",
   "keywords": ["laravel", "payu", "pagos"],
   "license": "MIT",
@@ -22,7 +22,7 @@
       "sdk/lib"
     ],
     "psr-4": {
-      "Alexo\\LaravelPayU\\": "src/"
+      "PrintuCo\\LaravelPayU\\": "src/"
     }
   }
 }
