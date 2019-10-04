@@ -1,6 +1,6 @@
 <?php
 
-namespace Alexo\LaravelPayU;
+namespace PrintuCo\LaravelPayU;
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\ServiceProvider;
