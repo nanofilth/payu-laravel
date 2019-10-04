@@ -1,6 +1,6 @@
 <?php
 
-namespace Alexo\LaravelPayU;
+namespace PrintuCo\LaravelPayU;
 
 class PayUVariables
 {
