@@ -1,0 +1,28 @@
+{
+  "name": "printu/laravel-payu",
+  "description": "Integrate SDK PayU to laravel",
+  "keywords": ["laravel", "payu", "pagos"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrés Gutiérrez",
+      "email": "andresgutierrez1985@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "nesbot/carbon": "~2.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0",
+    "vlucas/phpdotenv": "~2.0"
+  },
+  "autoload": {
+    "classmap": [
+      "sdk/lib"
+    ],
+    "psr-4": {
+      "Alexo\\LaravelPayU\\": "src/"
+    }
+  }
+}
