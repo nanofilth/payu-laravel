@@ -1,9 +1,9 @@
 <?php
 
-namespace Alexo\LaravelPayU;
+namespace PrintuCo\LaravelPayU;
 
 use InvalidArgumentException;
-use Alexo\LaravelPayU\LaravelPayU;
+use PrintuCo\LaravelPayU\LaravelPayU;
 
 trait Payable
 {
