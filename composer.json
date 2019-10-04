@@ -1,5 +1,5 @@
 {
-  "name": "printu/laravel-payu",
+  "name": "printu-co/laravel-payu",
   "description": "Integrate SDK PayU to laravel",
   "keywords": ["laravel", "payu", "pagos"],
   "license": "MIT",
